@@ -59,7 +59,7 @@ print('Python 3.7')
 print('Python\n3.7')
 
 # w nowej linii """ ... """
-print("""Python 3.7""")
+print("""Python 3.7"z"")
 
 #%%
 
